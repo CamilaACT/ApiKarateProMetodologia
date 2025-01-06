@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\metodologias\\proyecto\\api\\apikaratepro\\model\\request\\competidor_a_competidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:model\\request\\competidor_a_competidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\metodologias\\proyecto\\api\\apikaratepro\\model\\proc\\p_competidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:model\\proc\\p_competidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\metodologias\\proyecto\\api\\apikaratepro\\model\\proc\\p_competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:model\\proc\\p_competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,66 +91,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "p_Competencia.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Competencia.cs",
-              "RelativeDocumentMoniker": "model\\proc\\p_Competencia.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Competencia.cs",
-              "RelativeToolTip": "model\\proc\\p_Competencia.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAUwH8AAAAXAAAAAAAAAA==",
+              "Title": "competidor_A_competidor.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\competidor_A_competidor.cs",
+              "RelativeDocumentMoniker": "model\\Request\\competidor_A_competidor.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\competidor_A_competidor.cs",
+              "RelativeToolTip": "model\\Request\\competidor_A_competidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:02:26.876Z",
+              "WhenOpened": "2025-01-06T17:06:01.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "competencia_A_competencia.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\competencia_A_competencia.cs",
-              "RelativeDocumentMoniker": "model\\Request\\competencia_A_competencia.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\competencia_A_competencia.cs",
-              "RelativeToolTip": "model\\Request\\competencia_A_competencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "p_Competidor.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Competidor.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Competidor.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Competidor.cs",
+              "RelativeToolTip": "model\\proc\\p_Competidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:02:55.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "club_A_club.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\club_A_club.cs",
-              "RelativeDocumentMoniker": "model\\Request\\club_A_club.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\club_A_club.cs",
-              "RelativeToolTip": "model\\Request\\club_A_club.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:01:49.33Z",
+              "WhenOpened": "2025-01-06T17:05:28.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "p_Club.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Club.cs",
-              "RelativeDocumentMoniker": "model\\proc\\p_Club.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Club.cs",
-              "RelativeToolTip": "model\\proc\\p_Club.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "p_Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Competencia.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Competencia.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Competencia.cs",
+              "RelativeToolTip": "model\\proc\\p_Competencia.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwIIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:01:21.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T16:50:56.017Z",
+              "WhenOpened": "2025-01-06T17:02:26.876Z",
               "EditorCaption": ""
             },
             {
@@ -155,7 +137,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "competencia_A_competencia.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\competencia_A_competencia.cs",
+              "RelativeDocumentMoniker": "model\\Request\\competencia_A_competencia.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\competencia_A_competencia.cs",
+              "RelativeToolTip": "model\\Request\\competencia_A_competencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:02:55.657Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "club_A_club.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\club_A_club.cs",
+              "RelativeDocumentMoniker": "model\\Request\\club_A_club.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\club_A_club.cs",
+              "RelativeToolTip": "model\\Request\\club_A_club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:01:49.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "p_Club.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Club.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Club.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Club.cs",
+              "RelativeToolTip": "model\\proc\\p_Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:01:21.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:50:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -167,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "p_Usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Usuario.cs",
               "RelativeDocumentMoniker": "model\\proc\\p_Usuario.cs",
@@ -179,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "usuario_A_usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\usuario_A_usuario.cs",
               "RelativeDocumentMoniker": "model\\Request\\usuario_A_usuario.cs",
@@ -191,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "p_Login.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\proc\\p_Login.cs",
               "RelativeDocumentMoniker": "model\\proc\\p_Login.cs",
@@ -203,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "usuario_E_usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\usuario_E_usuario.cs",
               "RelativeDocumentMoniker": "model\\Request\\usuario_E_usuario.cs",
@@ -215,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\Login.cs",
               "RelativeDocumentMoniker": "model\\Request\\Login.cs",
@@ -227,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "c_base_datos.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\data\\DAO\\c_base_datos.cs",
               "RelativeDocumentMoniker": "data\\DAO\\c_base_datos.cs",
@@ -239,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Respuesta.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Response\\Respuesta.cs",
               "RelativeDocumentMoniker": "model\\Response\\Respuesta.cs",
@@ -251,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\model\\Request\\Usuario.cs",
               "RelativeDocumentMoniker": "model\\Request\\Usuario.cs",
@@ -263,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\util\\Conexion\\Conexion.cs",
               "RelativeDocumentMoniker": "util\\Conexion\\Conexion.cs",
@@ -275,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -287,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Utilidades.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\Custom\\Utilidades.cs",
               "RelativeDocumentMoniker": "Custom\\Utilidades.cs",

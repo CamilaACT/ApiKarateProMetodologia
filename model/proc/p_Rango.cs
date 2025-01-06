@@ -4,9 +4,9 @@ using System.Data;
 
 namespace ApiKaratePro.model.proc
 {
-    public class p_Competidor
+    public class p_Rango
     {
-        public static Respuesta actualizaCompetidor(competidor_A_competidor competidor)
+        public static Respuesta actualizaRango(rango_A_rango rango)
         {
 
             Respuesta res = new Respuesta() { CodigoError = 0, Message = "Sin Resultados", Result = null };
@@ -16,16 +16,12 @@ namespace ApiKaratePro.model.proc
                 data.DAO.c_base_datos cb = new data.DAO.c_base_datos();
                 System.Data.DataTable dt;
                 string strCon = util.Conexion.Conexion.CadenaConexion();
-                string[] vector = new string[7];
-                cb.sp = "usp_Web_competidor_A_competidor";//poner el nombre correcto
-                vector[0] = "@cmp_id,i," + competidor.cmp_id;
-                vector[1] = "@cmp_nombre,v," + competidor.cmp_nombre;
-                vector[2] = "@cmp_fech_naci,v," + competidor.cmp_fech_naci;
-                vector[3] = "@cmp_peso,i," + competidor.cmp_peso;
-                vector[4] = "@cmp_cedula,v," + competidor.cmp_cedula;
-                vector[5] = "@ran_id,i," + competidor.ran_id;
-                vector[6] = "@clu_id,i," + competidor.clu_id;
-                dt = cb.consultar(vector, 7, strCon);
+                string[] vector = new string[3];
+                cb.sp = "usp_Web_rango_A_rango";//poner el nombre correcto
+                vector[0] = "@ran_id,i," + rango.ran_id;
+                vector[1] = "@ran_color,v," + rango.ran_color;
+                vector[2] = "@ran_experto,i," + rango.ran_experto;
+                dt = cb.consultar(vector, 3, strCon);
 
                 res.CodigoError = cb.valo_erro;
                 if (res.CodigoError == -1)
@@ -51,7 +47,8 @@ namespace ApiKaratePro.model.proc
             }
             return res;
         }
-        public static Respuesta consultaTodoCompetidor()
+
+        public static Respuesta consultaTodoRango()
         {
 
             Respuesta res = new Respuesta() { CodigoError = 0, Message = "Sin Resultados", Result = null };
@@ -62,7 +59,7 @@ namespace ApiKaratePro.model.proc
                 System.Data.DataTable dt;
                 string strCon = util.Conexion.Conexion.CadenaConexion();
                 string[] vector = new string[0];
-                cb.sp = "usp_Web_competidor_CT_competidor";//poner el nombre correcto
+                cb.sp = "usp_Web_rango_CT_rango";//poner el nombre correcto
                 dt = cb.consultar(vector, 0, strCon);
 
                 res.CodigoError = cb.valo_erro;
@@ -89,7 +86,8 @@ namespace ApiKaratePro.model.proc
             }
             return res;
         }
-        public static Respuesta eliminaCompetidor(int cmp_id)
+
+        public static Respuesta eliminaRango(int ran_id)
         {
 
             Respuesta res = new Respuesta() { CodigoError = 0, Message = "Sin Resultados", Result = null };
@@ -100,8 +98,8 @@ namespace ApiKaratePro.model.proc
                 System.Data.DataTable dt;
                 string strCon = util.Conexion.Conexion.CadenaConexion();
                 string[] vector = new string[1];
-                cb.sp = "usp_Web_competidor_E_competidor";//poner el nombre correcto
-                vector[0] = "@cmp_id,i," + cmp_id;
+                cb.sp = "usp_Web_rango_E_rango";//poner el nombre correcto
+                vector[0] = "@ran_id,i," + ran_id;
                 dt = cb.consultar(vector, 1, strCon);
 
                 res.CodigoError = cb.valo_erro;
@@ -128,7 +126,8 @@ namespace ApiKaratePro.model.proc
             }
             return res;
         }
-        public static Respuesta grabaCompetidor(competidor_A_competidor competidor)
+
+        public static Respuesta grabaRango(rango_A_rango rango)
         {
 
             Respuesta res = new Respuesta() { CodigoError = 0, Message = "Sin Resultados", Result = null };
@@ -138,15 +137,11 @@ namespace ApiKaratePro.model.proc
                 data.DAO.c_base_datos cb = new data.DAO.c_base_datos();
                 System.Data.DataTable dt;
                 string strCon = util.Conexion.Conexion.CadenaConexion();
-                string[] vector = new string[6];
-                cb.sp = "usp_Web_competidor_G_competidor";//poner el nombre correcto
-                vector[0] = "@cmp_nombre,v," + competidor.cmp_nombre;
-                vector[1] = "@cmp_fech_naci,vkk," + competidor.cmp_fech_naci;
-                vector[2] = "@cmp_peso,i," + competidor.cmp_peso;
-                vector[3] = "@cmp_cedula,v," + competidor.cmp_cedula;
-                vector[4] = "@ran_id,i," + competidor.ran_id;
-                vector[5] = "@clu_id,i," + competidor.clu_id;
-                dt = cb.consultar(vector, 6, strCon);
+                string[] vector = new string[2];
+                cb.sp = "usp_Web_rango_G_rango";//poner el nombre correcto
+                vector[0] = "@ran_color,v," + rango.ran_color;
+                vector[1] = "@ran_experto,i," + rango.ran_experto;
+                dt = cb.consultar(vector, 2, strCon);
 
                 res.CodigoError = cb.valo_erro;
                 if (res.CodigoError == -1)
@@ -187,36 +182,6 @@ namespace ApiKaratePro.model.proc
             }
 
             return list;
-        }
-
-
-        public static bool EsCedulaValida(string cedula)
-        {
-            // Verificar que tenga exactamente 10 dígitos
-            if (string.IsNullOrWhiteSpace(cedula) || cedula.Length != 10 || !long.TryParse(cedula, out _))
-                return false;
-
-            // Extraer el código de provincia (2 primeros dígitos)
-            int codigoProvincia = int.Parse(cedula.Substring(0, 2));
-            if (codigoProvincia < 1 || (codigoProvincia > 24 && codigoProvincia != 30))
-                return false;
-
-            // Cálculo del dígito verificador
-            int[] coeficientes = { 2, 1, 2, 1, 2, 1, 2, 1, 2 }; // Coeficientes para las posiciones 1-9
-            int suma = 0;
-
-            for (int i = 0; i < coeficientes.Length; i++)
-            {
-                int valor = (cedula[i] - '0') * coeficientes[i]; // Multiplicar el dígito por el coeficiente
-                suma += valor > 9 ? valor - 9 : valor; // Si el resultado es mayor a 9, restar 9
-            }
-
-            int digitoVerificadorCalculado = 10 - (suma % 10);
-            if (digitoVerificadorCalculado == 10)
-                digitoVerificadorCalculado = 0;
-
-            int digitoVerificadorCedido = cedula[9] - '0'; // Último dígito de la cédula
-            return digitoVerificadorCalculado == digitoVerificadorCedido;
         }
     }
 }

@@ -1,36 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\ApiKaratePro.csproj": {}
+    "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\ApiKaratePro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\ApiKaratePro.csproj": {
+    "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\ApiKaratePro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\ApiKaratePro.csproj",
+        "projectUniqueName": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\ApiKaratePro.csproj",
         "projectName": "ApiKaratePro",
-        "projectPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\ApiKaratePro.csproj",
+        "projectPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\ApiKaratePro.csproj",
         "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Metodologias\\Proyecto\\API\\ApiKaratePro\\obj\\",
+        "outputPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -47,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -95,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

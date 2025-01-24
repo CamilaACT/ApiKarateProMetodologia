@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiKaratePro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79c9afbe46ae3ff92b8b889272c42a5210a12fca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c193b822d805e68f8f204e919d790140fb1a0a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiKaratePro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiKaratePro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

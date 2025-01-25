@@ -7,7 +7,7 @@
         //private static string servidor = @"host.docker.internal\CAMILASQL";
         private static string base_tip = "KaratePro";
         private static string usuario = "camila";
-        private static string password = "cact2003*";
+        private static string password = "Cact2003*";
         //private static string usuario = "sa";
         //private static string password = "sasa";
         private static string clav_priv = "dfaeiriecmvjhe3943dfadahyeu3456";

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\metodologia\\api\\util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\metodologia\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -135,10 +139,6 @@
       "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\metodologia\\api\\util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\metodologia\\api\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72617323-E513-4D4F-BF32-F7F309C79BB7}|ApiKaratePro.csproj|solutionrelative:custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -150,11 +150,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 887,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -167,19 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RangoController.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\RangoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RangoController.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\RangoController.cs",
-              "RelativeToolTip": "Controllers\\RangoController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:38:15.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CompetidorController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\CompetidorController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompetidorController.cs",
@@ -187,12 +175,11 @@
               "RelativeToolTip": "Controllers\\CompetidorController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:27:29.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T17:27:29.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "p_Competidor.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Competidor.cs",
               "RelativeDocumentMoniker": "model\\proc\\p_Competidor.cs",
@@ -204,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CompetenciaController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\CompetenciaController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompetenciaController.cs",
@@ -216,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ClubController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\ClubController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClubController.cs",
@@ -228,55 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "p_Tecnica.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Tecnica.cs",
-              "RelativeDocumentMoniker": "model\\proc\\p_Tecnica.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Tecnica.cs",
-              "RelativeToolTip": "model\\proc\\p_Tecnica.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAADwv7sAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:20:59.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "p_Rol.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rol.cs",
-              "RelativeDocumentMoniker": "model\\proc\\p_Rol.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rol.cs",
-              "RelativeToolTip": "model\\proc\\p_Rol.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAUwKMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:20:35.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "p_Rango.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rango.cs",
-              "RelativeDocumentMoniker": "model\\proc\\p_Rango.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rango.cs",
-              "RelativeToolTip": "model\\proc\\p_Rango.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAUwKUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:20:07.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "p_Competencia.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Competencia.cs",
-              "RelativeDocumentMoniker": "model\\proc\\p_Competencia.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Competencia.cs",
-              "RelativeToolTip": "model\\proc\\p_Competencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:02:26.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -289,7 +228,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\util\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "util\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\util\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "util\\Conexion\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:03:42.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RangoController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\RangoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RangoController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\RangoController.cs",
+              "RelativeToolTip": "Controllers\\RangoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:38:15.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "p_Tecnica.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Tecnica.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Tecnica.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Tecnica.cs",
+              "RelativeToolTip": "model\\proc\\p_Tecnica.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv7sAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:20:59.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "p_Rol.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rol.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Rol.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rol.cs",
+              "RelativeToolTip": "model\\proc\\p_Rol.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAUwKMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:20:35.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "p_Rango.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rango.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Rango.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Rango.cs",
+              "RelativeToolTip": "model\\proc\\p_Rango.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAUwKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:20:07.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "p_Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Competencia.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Competencia.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Competencia.cs",
+              "RelativeToolTip": "model\\proc\\p_Competencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:02:26.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RolController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolController.cs",
@@ -301,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "tecnica_A_tecnica.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\tecnica_A_tecnica.cs",
               "RelativeDocumentMoniker": "model\\Request\\tecnica_A_tecnica.cs",
@@ -313,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "rol_A_rol.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\rol_A_rol.cs",
               "RelativeDocumentMoniker": "model\\Request\\rol_A_rol.cs",
@@ -325,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "rango_A_rango.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\rango_A_rango.cs",
               "RelativeDocumentMoniker": "model\\Request\\rango_A_rango.cs",
@@ -337,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "puntuacion_A_puntuacion.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\puntuacion_A_puntuacion.cs",
               "RelativeDocumentMoniker": "model\\Request\\puntuacion_A_puntuacion.cs",
@@ -349,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "pelea_G_ganador.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\pelea_G_ganador.cs",
               "RelativeDocumentMoniker": "model\\Request\\pelea_G_ganador.cs",
@@ -361,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "pelea_A_pelea.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\pelea_A_pelea.cs",
               "RelativeDocumentMoniker": "model\\Request\\pelea_A_pelea.cs",
@@ -373,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "p_Pelea.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Pelea.cs",
               "RelativeDocumentMoniker": "model\\proc\\p_Pelea.cs",
@@ -385,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "competidor_A_competidor.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\competidor_A_competidor.cs",
               "RelativeDocumentMoniker": "model\\Request\\competidor_A_competidor.cs",
@@ -397,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "competencia_A_competencia.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\competencia_A_competencia.cs",
               "RelativeDocumentMoniker": "model\\Request\\competencia_A_competencia.cs",
@@ -409,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "club_A_club.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\club_A_club.cs",
               "RelativeDocumentMoniker": "model\\Request\\club_A_club.cs",
@@ -421,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "p_Club.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Club.cs",
               "RelativeDocumentMoniker": "model\\proc\\p_Club.cs",
@@ -433,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
@@ -445,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -457,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "p_Usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Usuario.cs",
               "RelativeDocumentMoniker": "model\\proc\\p_Usuario.cs",
@@ -469,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "usuario_A_usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\usuario_A_usuario.cs",
               "RelativeDocumentMoniker": "model\\Request\\usuario_A_usuario.cs",
@@ -481,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "p_Login.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\proc\\p_Login.cs",
               "RelativeDocumentMoniker": "model\\proc\\p_Login.cs",
@@ -493,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "usuario_E_usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\usuario_E_usuario.cs",
               "RelativeDocumentMoniker": "model\\Request\\usuario_E_usuario.cs",
@@ -505,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\Login.cs",
               "RelativeDocumentMoniker": "model\\Request\\Login.cs",
@@ -517,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "c_base_datos.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\data\\DAO\\c_base_datos.cs",
               "RelativeDocumentMoniker": "data\\DAO\\c_base_datos.cs",
@@ -529,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Respuesta.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Response\\Respuesta.cs",
               "RelativeDocumentMoniker": "model\\Response\\Respuesta.cs",
@@ -541,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\model\\Request\\Usuario.cs",
               "RelativeDocumentMoniker": "model\\Request\\Usuario.cs",
@@ -550,18 +562,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T15:51:06.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\util\\Conexion\\Conexion.cs",
-              "RelativeDocumentMoniker": "util\\Conexion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Api\\util\\Conexion\\Conexion.cs",
-              "RelativeToolTip": "util\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T16:03:42.833Z"
             },
             {
               "$type": "Document",
